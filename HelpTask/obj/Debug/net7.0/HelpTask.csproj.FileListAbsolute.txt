@@ -1,0 +1,14 @@
+D:\csharp_projects\HelpTask\HelpTask\bin\Debug\net7.0\HelpTask.exe
+D:\csharp_projects\HelpTask\HelpTask\bin\Debug\net7.0\HelpTask.deps.json
+D:\csharp_projects\HelpTask\HelpTask\bin\Debug\net7.0\HelpTask.runtimeconfig.json
+D:\csharp_projects\HelpTask\HelpTask\bin\Debug\net7.0\HelpTask.dll
+D:\csharp_projects\HelpTask\HelpTask\bin\Debug\net7.0\HelpTask.pdb
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\HelpTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\HelpTask.AssemblyInfoInputs.cache
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\HelpTask.AssemblyInfo.cs
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\HelpTask.csproj.CoreCompileInputs.cache
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\HelpTask.dll
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\refint\HelpTask.dll
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\HelpTask.pdb
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\HelpTask.genruntimeconfig.cache
+D:\csharp_projects\HelpTask\HelpTask\obj\Debug\net7.0\ref\HelpTask.dll
